@@ -8,6 +8,8 @@ Project developed at Bootcamp .Net Fundamentals of Digital Innovation One with g
 Learning how to create a simple bank transfer algorithm.
 In this project we learned how to model the domain, use enums and exercise object-oriented thinking, the main programming paradigm used in the market.
 
+![Screenshot](./img/hed_bank.png)
+
 [LICENSE](./LICENSE)
 
 See [original repository](https://github.com/elizarp/dio-dotnet-poo-lab-1).
