@@ -10,4 +10,4 @@ In this project we learned how to model the domain, use enums and exercise objec
 
 [LICENSE](./LICENSE)
 
-See [original repository](https://github.com/elizarp/dio-dotnet-poo-lab-2).
+See [original repository](https://github.com/elizarp/dio-dotnet-poo-lab-1).
