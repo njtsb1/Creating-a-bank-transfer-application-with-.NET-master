@@ -1,0 +1,122 @@
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+publish/
+artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+*.dbmdl
+*.dbproj.user
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Debug symbols and compiled files
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.meta
+*.obj
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/
+.nuget/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.userprefs
+
+# ASP.NET Core / app settings
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+secrets.*
+*.local.settings.json
+
+# Logs
+*.log
+logs/
+*.trace
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+*.db-journal
+
+# EF Core Migrations (optional)
+Migrations/
+
+# Node / frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+coverage/
+.env
+.env.local
+.env.*.local
+
+# Frontend lockfiles (usually committed; uncomment to ignore)
+# package-lock.json
+# yarn.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Containers / Docker
+docker-compose.override.yml
+**/docker-compose.override.yml
+docker-compose.*.yml
+
+# IDE / Editor backups and temp files
+*~ 
+*.swp
+*.swo
+*.bak
+
+# Generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# Optional: Rider / ReSharper caches
+_ReSharper*/
+*.DotSettings.user
+
+# Optional: publish output
+publish/
+out/
+
+# GitHub Actions / CI caches
+/.github/workflows/.cache/
+
+# Local tool caches
+.vsconfig
+.nuget/packages/
